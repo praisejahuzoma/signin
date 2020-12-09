@@ -1,0 +1,79 @@
+.we{
+    height: 200px;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 5px;
+    
+}
+
+
+.nom{
+  
+   border:solid 1px rgb(228, 227, 227) ;
+ 
+    width: 60%;
+    height: 40px;
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255); 
+     border-radius: 5px;
+     
+}
+
+.jol{
+    border:solid 1px rgb(228, 227, 227) ;
+    width: 60%;
+    height: 40px;
+    margin-top: 8px;
+     background-color: white;
+     border-radius: 5px;
+
+}
+
+.no{
+    margin-top: 20px;
+}
+
+.z:hover{
+    background-color: rgb(91, 21, 156);
+}
+
+.z{
+    border: none;
+   margin: 0 auto;
+    background-color: rgb(55, 8, 117);
+    height: 40px;
+    width: 50%;
+    margin-top: 40px;
+    color:white;
+    border-radius: 5px;
+}
+
+
+
+.hi{
+   margin-top: 200px;
+}
+
+.b{
+ margin-top:20px;
+}
+.input{
+    top:90px;
+}fe
+
+.div{
+    
+    background: linear-gradient(to right, rgb(255, 200, 0) ,rgb(155, 4, 202));
+}
+
+.color{
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    margin-top: -90px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
